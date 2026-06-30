@@ -630,7 +630,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "korgddd1.net",
-      "plot": "export1.0",
+      "plot": "export1.1",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -766,7 +766,7 @@
         "uuid": "bbaeadaf-dbb3-4b5e-9e44-354d29552caa"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J3-4",
     "variants": []
   },
   "sheets": [
