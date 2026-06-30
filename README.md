@@ -1,4 +1,6 @@
-# Hardware upgrades for Casio FZ and VZ series (FZ-1 / FZ-10m / FZ-20m and VZ-1 / VZ-10m).
+# Hardware upgrades for Casio FZ and VZ series
+
+# (FZ-1 / FZ-10m / FZ-20m and VZ-1 / VZ-10m).
 
 This repository is the collection of upgrades for an amazing Casio FZ-series of samplers. Some of those are also applicable for VZ-series. 
 
