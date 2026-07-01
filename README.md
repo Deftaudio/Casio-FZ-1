@@ -1,6 +1,6 @@
 # Hardware upgrades for Casio FZ and VZ series
 
-# (FZ-1 / FZ-10m / FZ-20m and VZ-1 / VZ-10m).
+# FZ-1 / FZ-10m / FZ-20m and VZ-1 / VZ-10m.
 
 This repository is the collection of upgrades for an amazing Casio FZ-series of samplers. Some of those are also applicable for VZ-series. 
 
@@ -16,12 +16,12 @@ This repository is the collection of upgrades for an amazing Casio FZ-series of 
 
 ## FZDUMP2026
 
-It's the new version of the original FZDUMP app for DOS that allowed data transfer between FZ-1 and PC. I has been completelly reworked in 2026 (30 years after the original code) to run on "modern" Windows - anything from and including Windows 98 SE.
+It's the new version of the original FZDUMP app for DOS that allowed data transfer between FZ-1 and PC. It has been completely reworked in 2026 (30 years after the original code) to run on "modern" Windows - anything from and including Windows 98 SE.
 
 <img title="" src="images/fzdump2026.jpg" alt="" data-align="center">It was purposely designed to use the parallel port, not rely on any microcontroller, and just initiate a transfer using a user space library to interface with LPT port. This required specific tricks in the code, since the original code used DOS interrupts.
 The main motivation is to keep it legacy looking. It has a built in browser to easily manage large sound library. 
 
-FZDUMP2026 remains open source, free of charge of all. You're highly encouraged to submit your imporvements using this Github repository. 
+FZDUMP2026 remains open source, free of charge of all. You're highly encouraged to submit your improvements using this Github repository. 
 
 Deftaudio offers the complete Thin PC setups with all original and FZDUMP2026 software pre-loaded. Check the [store](https://deftaudio.com/store).  
 
@@ -49,11 +49,11 @@ More info on the [Product page](https://deftaudio.com/store/tproduct/85784862361
 
 ## Pico OLED Upgrade for FZ-1, FZ-10m, FZ-20m, VZ-1, VZ-10m
 
-This is the recent [development by Dreambrother7](https://github.com/Dreambrother7/FZ1oledlc), is inspired by the original OLED by Dmitrins, but uses RPi Pico/Pico2 instead. This allowed to reduce the cost of the project, by minimazing the BOM and using easily availabled SSD1309 OLED model. 
+This is the recent [development by Dreambrother7](https://github.com/Dreambrother7/FZ1oledlc), is inspired by the original OLED by Dmitrins, but uses RPi Pico/Pico2 instead. This allowed to reduce the cost of the project, by minimizing the BOM and using easily available SSD1309 OLED model. 
 
 <img title="" src="images/picooled4.jpg" alt="" data-align="center">
 
-Deftaudio designed several PCBs for this project. The base PCB assebly hosts Pico and OLED screen. It connects to the adapter board that goes into flex cable slot on Casio. The base PCB has snap off regions to be mounted in FZ-1, FZ-10m/FZ-20m or VZ-10m.  
+Deftaudio designed several PCBs for this project. The base PCB assembly hosts Pico and OLED screen. It connects to the adapter board that goes into flex cable slot on Casio. The base PCB has snap off regions to be mounted in FZ-1, FZ-10m/FZ-20m or VZ-10m.  
 
 <img title="" src="images/picooled3.jpeg" alt="" data-align="center">
 
